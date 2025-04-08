@@ -164,6 +164,7 @@ footer {
 label[for="menu-toggle"] {
   display: block;
   cursor: pointer;
+  color: white;
 }
 
 nav ul.menu {
